@@ -3,15 +3,15 @@ This page features a Mathematica notebook that is supplementary material for the
  
 Basic wrapper functions for the analytic solutions are provided to tabulate results at specific field points, along with a sanity check comparison to the original numeric integral. All tabulated results were compared to an FEA model within the research article. Reviewers of the research article were interested in a basic computational benchmark of the analytic solution results compared to the numerical integral solution and FEA. Partial code to this effect is included. Further to the tables, some example plots are provided to visualise: the geometry; the location of the chosen field points; the magnitude and direction of the field passing through the geometry.
 
+An extension of this work can be found in the [mag-gmst-force](https://github.com/AUMAG/mag-cyl-field/blob/main/Nomenclature.wl) repository.
+
 <img style="background-color:white;" src=https://github.com/AUMAG/mag-cyl-field/blob/main/doc/graphical-abstract.svg />
 
 ## Manuscript
 
-This repository contains the preprint manuscript and the results of the derivations presented in the following paper ([10.1002/apxr.202300136](https://doi.org/10.1002/apxr.202300136)):
+This repository contains the [preprint manuscript PDF](https://github.com/AUMAG/mag-cyl-field/blob/main/mag-cyl-field-Forbes-manuscript-2024.pdf) and the results of the derivations presented in the following paper ([10.1002/apxr.202300136](https://doi.org/10.1002/apxr.202300136)):
 
 > M. Forbes, W.S.P Robertson, A.C. Zander, J.J.H. Paulides, "The Magnetic Field from Cylindrical Arc Coils and Magnets: A Compendium with New Analytic Solutions for Radial Magnetisation and Azimuthal Current"
-
-A [preprint PDF version](https://github.com/AUMAG/mag-cyl-field/blob/main/mag-cyl-field-Forbes-manuscript-2024.pdf) of the manuscript is provided in this repository.
 
 ## Citation
 
